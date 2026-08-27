@@ -23,7 +23,7 @@ Cybersecurity is where most of my curiosity is right now, especially red teaming
 
 <ul>
   <li>
-    <a href="PASTE-REPO-URL"><b>C++ Hangman Game</b></a>
+    <a href="https://github.com/ScriptVine/cpp-hangman-game"><b>C++ Hangman Game</b></a>
     — A console-based Hangman game built using object-oriented C++, featuring single-player and two-player modes, input validation, inheritance, and runtime polymorphism.
   </li>
 

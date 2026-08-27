@@ -28,7 +28,7 @@ Cybersecurity is where most of my curiosity is right now, especially red teaming
   </li>
 
   <li>
-    <a href="PASTE-REPO-URL"><b>IoT Smart Irrigation System</b></a>
+    <a href="https://github.com/ScriptVine/iot-smart-irrigation-system"><b>IoT Smart Irrigation System</b></a>
     — An automated irrigation prototype using Arduino and soil moisture sensing to monitor plant conditions and control watering.
   </li>
 
